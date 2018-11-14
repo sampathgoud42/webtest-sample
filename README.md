@@ -1,5 +1,5 @@
-# git-test-serenity
-sample git api tests
+# redmart-ui-test-serenity
+sample UI test
 
 AUT: redmart.com
 Language: Java
